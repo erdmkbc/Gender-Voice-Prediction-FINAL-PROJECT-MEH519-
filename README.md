@@ -1,6 +1,6 @@
 # MEH519-SCHOOL-FINAL-PROJECT
 
-*This school's course is the 7th semester ıntroduction to machine learning course*
+*This course that is Kocaeli Unversity's course  is the 7th semester ıntroduction to machine learning course*
 
 ### Presentation Final
 
