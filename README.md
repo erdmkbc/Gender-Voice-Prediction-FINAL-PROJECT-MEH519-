@@ -1,6 +1,6 @@
 # MEH519-SCHOOL-FINAL-PROJECT
 
-*This course is the 7th semester ıntroduction to machine learning course*
+*This school's course is the 7th semester ıntroduction to machine learning course*
 
 ### Presentation Final
 
