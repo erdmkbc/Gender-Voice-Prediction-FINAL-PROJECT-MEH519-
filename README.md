@@ -7,7 +7,7 @@
 [Presentation.pptx](https://github.com/erdmkbc/MEH519-SCHOOL-FINAL-PROJECT/files/7711700/Presentation.pptx)
 
 ### Requirements
-
+```bash
 import pandas as pd 
 import numpy as np 
 from scipy import stats
@@ -29,3 +29,4 @@ from sklearn.svm import SVC
 
 from sklearn.model_selection import learning_curve
 from sklearn.metrics import classification_report 
+```
