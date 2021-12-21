@@ -3,8 +3,8 @@
 *This course that is Kocaeli Unversity's course  is the 7th semester Introduction To Machine Learning course*
 
 ### Presentation Final
+[Presentation.pptx](https://github.com/erdmkbc/MEH519-SCHOOL-FINAL-PROJECT/files/7751229/Presentation.pptx)
 
-[Presentation.pptx](https://github.com/erdmkbc/MEH519-SCHOOL-FINAL-PROJECT/files/7711700/Presentation.pptx)
 
 ### Requirements
 ```bash
